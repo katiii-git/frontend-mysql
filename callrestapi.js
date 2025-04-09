@@ -1,5 +1,5 @@
 //var url= "http://localhost:3300/api/users";
-var url= "https://pg-restapi-l6ts.onrender.com/api/users";
+var url= "https://mysql-restapi-ltst.onrender.com/api/users";
 function postUser(){
     var myName = $('#name').val();
     var myEmail = $('#email').val();
